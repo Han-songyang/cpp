@@ -1,0 +1,5 @@
+﻿  c++.3.8.cpp
+D:\program\c++\c++.3.8\c++.3.8\c++.3.8.cpp(24,3): warning C4065: switch 语句包含“default”但是未包含“case”标签
+D:\program\c++\c++.3.8\c++.3.8\c++.3.8.cpp(21,8): warning C4102: “case1”: 未引用的标签
+D:\program\c++\c++.3.8\c++.3.8\c++.3.8.cpp(22,8): warning C4102: “case2”: 未引用的标签
+  c++.3.8.vcxproj -> D:\program\c++\c++.3.8\Debug\c++.3.8.exe
